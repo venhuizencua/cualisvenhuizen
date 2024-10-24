@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"= ?>
+
+<actorprofile>
+	<actor>
+		<name type="text">Robert Downey, Jr.</name>
+
+		<dob type="date">April 4, 1965</dob>
+
+		<height type="text">5/9"</height>
+
+		
+		<films>
+			<film>
+				<title>The Avengers</title>
+				<releaseyear>2012</releaseyear>
+				<role>Iron Man</role>	
+			</film>
+			<film>
+				<title>Iron Man 2</title>
+				<releaseyear>2010</releaseyear>
+				<role>Iron Man</role>
+			</film>
+			<film>
+				<title>Iron Man</title>
+				<releaseyear>2008</releaseyear>
+				<role>Iron Man</role>
+			</film>
+			<film>
+				<title>Sherlock Holmes: A Game of Shadows</title>
+				<releaseyear>2011</releaseyear>
+				<role>Sherlock Holmes</role>
+			</film>
+			<film>
+				<title>Sherlock Holmes</title>
+				<releaseyear>2009</releaseyear>
+				<role>Sherlock Holmes</role>
+			</film>
+		</films>
+	</actor>
+	
+	<actor>
+		<name type="text">Mark Ruffalo</name>
+
+		<dob type="date">November 22, 1967</dob>
+
+		<height type="text">5/8"</height>
+		<films>	
+			<film>
+				<title>The Avengers</title>
+				<releaseyear>2012</releaseyear>
+				<role>Hulk</role>
+			</film>
+		</films>
+	</actor>
+	
+
+</actorprofile>
